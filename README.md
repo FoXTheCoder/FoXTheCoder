@@ -1,4 +1,4 @@
-# Hey, I'm [FoXTheCoder] 👋
+# Hey, I'm FoXTheCoder 👋
 
 🔍 Exploring Exploits, Crafting Cheats, and Teaching Code 💻
 
