@@ -28,6 +28,14 @@ I'm proficient in a range of programming languages:
 - C#
 - C++
 
+## Get in Touch
+
+📫 Interested in collaborating on projects, learning from each other, or discussing cheat development? Feel free to reach out!
+
+- GitHub: [YourGitHubUsername](https://github.com/FoXTheCoder)
+- Email: [youremail@example.com](mailto:robssshop@gmail.com)
+
+
 Let's push the boundaries of code and create exciting, secure, and educational experiences together!
 
 ## New to Github but been programming for years
