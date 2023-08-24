@@ -32,8 +32,8 @@ I'm proficient in a range of programming languages:
 
 📫 Interested in collaborating on projects, learning from each other, or discussing cheat development? Feel free to reach out!
 
-- GitHub: [YourGitHubUsername](https://github.com/FoXTheCoder)
-- Email: [youremail@example.com](mailto:robssshop@gmail.com)
+- GitHub: [FoXTheCoder](https://github.com/FoXTheCoder)
+- Email: [robssshop@gmail.com](mailto:robssshop@gmail.com)
 
 
 Let's push the boundaries of code and create exciting, secure, and educational experiences together!
