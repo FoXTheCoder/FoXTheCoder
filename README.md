@@ -38,4 +38,4 @@ I'm proficient in a range of programming languages:
 
 Let's push the boundaries of code and create exciting, secure, and educational experiences together!
 
-## Looking for cheat devs hit my line lets start a cheat product
+## Currently realising a lot of projects I have worked on in the past
