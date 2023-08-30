@@ -1,4 +1,4 @@
-## About Me
+## Hi
 
 I'm a passionate developer with a knack for finding and understanding exploits, creating code cheats, and helping others learn the art of programming. I believe in the power of knowledge sharing and enjoy contributing to the development community.
 
